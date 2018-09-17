@@ -1,0 +1,221 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jayyuunejp.com" resolutions="1x" timestamp="1537122347661">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_c-master.css" crc="286195114" ref="video"/>
+    <file name="master_d-master.css" crc="255582636" ref="presentation"/>
+    <file name="master_e-master.css" crc="4191726069" ref="identity"/>
+    <file name="master_b-master.css" crc="4182972586" ref="graphic-design"/>
+    <file name="index.css" crc="3800096946" ref="index"/>
+    <file name="nomq_index.css" crc="4250685148" ref="index"/>
+    <file name="video.css" crc="3959177700" ref="video"/>
+    <file name="identity.css" crc="4291700827" ref="identity"/>
+    <file name="presentation.css" crc="4255735726" ref="presentation"/>
+    <file name="graphic-design.css" crc="4285450167" ref="graphic-design"/>
+  </folder>
+  <folder name="assets">
+    <file name="ใบจบ-4.pdf" crc="448617113" seo="true" mt="1479312140000"/>
+    <file name="cv_junejp2018.pdf" crc="3859793632" seo="true" mt="1537114704000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:graphic-design:video:presentation:identity"/>
+    <file name="museutils.js" crc="3803043152" ref="index:graphic-design:video:presentation:identity"/>
+    <file name="whatinput.js" crc="86476730" ref="index:graphic-design:video:presentation:identity"/>
+    <file name="museconfig.js" crc="380897831" ref="index:graphic-design:video:presentation:identity"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:graphic-design:video:presentation:identity"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:graphic-design:video:presentation:identity"/>
+  </folder>
+  <folder name="images">
+    <file name="bg work2.png" crc="378608905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphic.jpg" crc="524598213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="video.jpg" crc="4010240980" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="identity.jpg" crc="488601570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 10.jpg" crc="3968256108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 7-u695.png" crc="304223666" ref="index"/>
+    <file name="asset 11-u695-r.png" crc="3963223373" ref="index"/>
+    <file name="asset 9-u713.png" crc="3927589597" ref="index"/>
+    <file name="asset 12-u713-r.png" crc="3881173373" ref="index"/>
+    <file name="asset 7-u6952.png" crc="304223666" ref="index"/>
+    <file name="asset 11-u695-r2.png" crc="3963223373" ref="index"/>
+    <file name="asset 9-u7132.png" crc="3927589597" ref="index"/>
+    <file name="asset 12-u713-r2.png" crc="3881173373" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="brochure flu-02.jpg" crc="59966887" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="brochure flu-01.jpg" crc="3947364601" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="brochure hcp.jpg" crc="3800298071" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="brochure rota virus v1.jpg" crc="3858219658" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gskpro mockup_1.jpg" crc="3830148574" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gskpro mockup_2.jpg" crc="4279279969" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gskpro mockup_3.jpg" crc="4083558525" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="poster_mixbg-2.jpg" crc="261957118" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aaiat-2.jpg" crc="192573450" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="poster_mixbg-1.jpg" crc="279858914" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="pt education copd.jpg" crc="4254475290" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="pt education asthma-2.jpg" crc="149346717" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gif.jpg" crc="4106601651" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="email วิธีฆ่าไวรัสโรต้า.jpg" crc="4120954108" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="asthma_myth-truth.jpg" crc="316563808" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="asthma_myth-truth_v2-01-01.jpg" crc="4178044246" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="portrait_kk.jpg" crc="4292835141" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="portrait_bogum.jpg" crc="4131769782" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="asset 7-u3910.png" crc="304223666" ref="graphic-design"/>
+    <file name="asset 11-u3910-r.png" crc="3963223373" ref="graphic-design"/>
+    <file name="asset 9-u3909.png" crc="3927589597" ref="graphic-design"/>
+    <file name="asset 12-u3909-r.png" crc="3881173373" ref="graphic-design"/>
+    <file name="green.jpg" crc="4204245126" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="blue.jpg" crc="227940030" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="green2.jpg" crc="4073565367" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bg2.png" crc="4111221483" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bg8.png" crc="3837385821" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bg10.png" crc="100286481" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="pink.png" crc="406737585" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="green.png" crc="122915826" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="blue.png" crc="3921039533" seo="true" ref="video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="asset 7-u3935.png" crc="304223666" ref="video"/>
+    <file name="asset 11-u3935-r.png" crc="3963223373" ref="video"/>
+    <file name="asset 9-u3936.png" crc="3927589597" ref="video"/>
+    <file name="asset 12-u3936-r.png" crc="3881173373" ref="video"/>
+    <file name="impact of allergic.png" crc="210124367" seo="true" ref="presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="solution.jpg" crc="4081342995" seo="true" ref="presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="requip sucra.jpg" crc="127594921" seo="true" ref="presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="requip geomatrix.jpg" crc="512444680" seo="true" ref="presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="sukhothai.jpg" crc="318340227" seo="true" ref="presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="be2.jpg" crc="4131587796" seo="true" ref="presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="asset 7-u3978.png" crc="304223666" ref="presentation"/>
+    <file name="asset 11-u3978-r.png" crc="3963223373" ref="presentation"/>
+    <file name="asset 9-u3979.png" crc="3927589597" ref="presentation"/>
+    <file name="asset 12-u3979-r.png" crc="3881173373" ref="presentation"/>
+    <file name="strong_cup.jpg" crc="3983834765" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="strong_paper.jpg" crc="391248399" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="better_cup.jpg" crc="4282241756" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="better_stamp.jpg" crc="372515308" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="polo.png" crc="3957906236" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="polo_gskpro.png" crc="3973984651" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="bag.png" crc="3997347942" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="cover_avamys.jpg" crc="169805187" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="note_aug.jpg" crc="149080771" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="calen_xyzal.jpg" crc="385603239" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="notebook.png" crc="59897748" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="gif_cover.jpg" crc="4255249525" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="notebook-postit.png" crc="4281389236" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="gif_note.jpg" crc="454994660" seo="true" ref="identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="asset 7-u4086.png" crc="304223666" ref="identity"/>
+    <file name="asset 11-u4086-r.png" crc="3963223373" ref="identity"/>
+    <file name="asset 9-u4089.png" crc="3927589597" ref="identity"/>
+    <file name="asset 12-u4089-r.png" crc="3881173373" ref="identity"/>
+  </folder>
+  <file name="index.html" crc="3806692744" seo="true" mt="1537112790999" redirect="true"/>
+  <file name="graphic-design.html" crc="295929046" seo="true" mt="1537119744984" redirect="true"/>
+  <file name="video.html" crc="4264472541" seo="true" mt="1537119879319" redirect="true"/>
+  <file name="presentation.html" crc="4224810012" seo="true" mt="1537119377910" redirect="true"/>
+  <file name="identity.html" crc="302473290" seo="true" mt="1537108211295" redirect="true"/>
+</manifest>
