@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jayyuunejp.com" resolutions="1x" timestamp="1537122347661">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="junejp.github.io" resolutions="1x" timestamp="1537208736883">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_c-master.css" crc="286195114" ref="video"/>
-    <file name="master_d-master.css" crc="255582636" ref="presentation"/>
-    <file name="master_e-master.css" crc="4191726069" ref="identity"/>
-    <file name="master_b-master.css" crc="4182972586" ref="graphic-design"/>
-    <file name="index.css" crc="3800096946" ref="index"/>
-    <file name="nomq_index.css" crc="4250685148" ref="index"/>
-    <file name="video.css" crc="3959177700" ref="video"/>
-    <file name="identity.css" crc="4291700827" ref="identity"/>
-    <file name="presentation.css" crc="4255735726" ref="presentation"/>
-    <file name="graphic-design.css" crc="4285450167" ref="graphic-design"/>
+    <file name="master_c-master.css" crc="325762715" ref="video"/>
+    <file name="master_e-master.css" crc="142972476" ref="identity"/>
+    <file name="master_aa-master.css" crc="172361925" ref="index"/>
+    <file name="master_b-master.css" crc="90992414" ref="graphic-design"/>
+    <file name="master_d-master.css" crc="372727448" ref="presentation"/>
+    <file name="video.css" crc="3977877002" ref="video"/>
+    <file name="index.css" crc="216235316" ref="index"/>
+    <file name="presentation.css" crc="4004166110" ref="presentation"/>
+    <file name="graphic-design.css" crc="104212965" ref="graphic-design"/>
+    <file name="identity.css" crc="494730559" ref="identity"/>
   </folder>
   <folder name="assets">
     <file name="ใบจบ-4.pdf" crc="448617113" seo="true" mt="1479312140000"/>
-    <file name="cv_junejp2018.pdf" crc="3859793632" seo="true" mt="1537114704000"/>
+    <file name="cv_junejp2018.pdf" crc="300270933" seo="true" mt="1537194914000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:graphic-design:video:presentation:identity"/>
@@ -22,39 +22,30 @@
     <file name="whatinput.js" crc="86476730" ref="index:graphic-design:video:presentation:identity"/>
     <file name="museconfig.js" crc="380897831" ref="index:graphic-design:video:presentation:identity"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index:graphic-design:video:presentation:identity"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="graphic-design:video:presentation:identity"/>
   </folder>
   <folder name="images">
     <file name="bg work2.png" crc="378608905" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index:graphic-design:video:presentation:identity"/>
     <file name="graphic.jpg" crc="524598213" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="video.jpg" crc="4010240980" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="identity.jpg" crc="488601570" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 10.jpg" crc="3968256108" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 7-u695.png" crc="304223666" ref="index"/>
     <file name="asset 11-u695-r.png" crc="3963223373" ref="index"/>
     <file name="asset 9-u713.png" crc="3927589597" ref="index"/>
     <file name="asset 12-u713-r.png" crc="3881173373" ref="index"/>
-    <file name="asset 7-u6952.png" crc="304223666" ref="index"/>
-    <file name="asset 11-u695-r2.png" crc="3963223373" ref="index"/>
-    <file name="asset 9-u7132.png" crc="3927589597" ref="index"/>
-    <file name="asset 12-u713-r2.png" crc="3881173373" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="brochure flu-02.jpg" crc="59966887" seo="true" ref="graphic-design">
       <caption webpage="graphic-design" alt=""/>
     </file>
@@ -213,9 +204,9 @@
     <file name="asset 9-u4089.png" crc="3927589597" ref="identity"/>
     <file name="asset 12-u4089-r.png" crc="3881173373" ref="identity"/>
   </folder>
-  <file name="index.html" crc="3806692744" seo="true" mt="1537112790999" redirect="true"/>
-  <file name="graphic-design.html" crc="295929046" seo="true" mt="1537119744984" redirect="true"/>
-  <file name="video.html" crc="4264472541" seo="true" mt="1537119879319" redirect="true"/>
-  <file name="presentation.html" crc="4224810012" seo="true" mt="1537119377910" redirect="true"/>
-  <file name="identity.html" crc="302473290" seo="true" mt="1537108211295" redirect="true"/>
+  <file name="index.html" crc="355519206" seo="true" mt="1537207928462" redirect="true"/>
+  <file name="graphic-design.html" crc="3808523527" seo="true" mt="1537208105034" redirect="true"/>
+  <file name="video.html" crc="4035671589" seo="true" mt="1537208423316" redirect="true"/>
+  <file name="presentation.html" crc="16667060" seo="true" mt="1537208095866" redirect="true"/>
+  <file name="identity.html" crc="4273317046" seo="true" mt="1537208095867" redirect="true"/>
 </manifest>
