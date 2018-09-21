@@ -6,20 +6,26 @@
   <meta name="generator" content="2018.0.0.379"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/presentation.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "presentation.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "presentation.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://junejp.github.io/phone/presentation.html"/>
   <title>Presentation</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_d-master.css?crc=372727448"/>
-  <link rel="stylesheet" type="text/css" href="css/presentation.css?crc=4004166110" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_d-master.css?crc=373687047"/>
+  <link rel="stylesheet" type="text/css" href="css/presentation.css?crc=4145551006" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/_T913sfOqPJFB4CBJ11fcUNWStC_Jy4dG0QjxdRw_zIfenSgfVP6DbwPH2SuFQSkwDZLjQiqjhbXZAmq5A935AZR52mqFe93wD4yjQgRZewuwRM-5fG0-1m0ZAT3OciTieyujKoTdkU7iAo8-1M0Zh8X-YmKOc8zOYiaiko7iAo8-1M0Zh8X-YmKOc8zJ6lc-AUDdhtlShNcifJ--WsROABhjAoXOAiyScs8OAizieyTjku3Scv7f6RWtMIbMg6PJMJ7f6KDC3JbMs6YJM4HgIuuShAbMZzRxN3B.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/pkeYi0m5_O0KEb0lNCgkf0O2IghUE0JGj84pYbir8vIfenSgfVP6DbwPH2SuFQSkwDZLjQiqjhbXZAmq5A935AZR52mqFe93wD4yjQgRZewuwRM-5fG0-1m0ZAT3OciTieyujKoTdkU7iAo8-1M0Zh8X-YmKOc8zOYiaiko7iAo8-1M0Zh8X-YmKOc8zJyTTiewljWZyd1blZhBkZe9lZhNX-e8ROWgkdkJOZc8CShN0OWFzZ1b7f6KDC3JbMg6YJMJ7f6RWtMIbMs6PJM4HgIuuShAbMdVpRlXB.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -60,35 +66,37 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="grpelem" id="u2021"><!-- simple frame --></div>
     </div>
     <div class="clearfix colelem" id="u2026"><!-- group -->
-     <div class="shadow clearfix grpelem" id="u2009"><!-- column -->
-      <div class="position_content" id="u2009_position_content">
-       <div class="clearfix colelem" id="pu2328"><!-- group -->
-        <div class="clip_frame grpelem" id="u2328"><!-- image -->
-         <img class="block" id="u2328_img" src="images/impact%20of%20allergic.png?crc=210124367" alt="" width="999" height="511"/>
-        </div>
-        <div class="size_fixed grpelem" id="u2323"><!-- custom html -->
-         
+     <div class="clearfix grpelem" id="u9690"><!-- group -->
+      <div class="shadow clearfix grpelem" id="u2009"><!-- column -->
+       <div class="position_content" id="u2009_position_content">
+        <div class="clearfix colelem" id="pu2328"><!-- group -->
+         <div class="clip_frame grpelem" id="u2328"><!-- image -->
+          <img class="block" id="u2328_img" src="images/impact%20of%20allergic.png?crc=210124367" alt="" width="999" height="511"/>
+         </div>
+         <div class="size_fixed grpelem" id="u2323"><!-- custom html -->
+          
     <iframe class="actAsDiv" style="width:100%;height:100%;" src="//player.vimeo.com/video/290048303?title=0&amp;byline=0&amp;portrait=0&amp;color=FFFFFF&amp;autoplay=0&amp;loop=0&amp;wmode=transparent" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
+         </div>
         </div>
-       </div>
-       <div class="clip_frame colelem" id="u2095"><!-- image -->
-        <img class="block" id="u2095_img" src="images/solution.jpg?crc=4081342995" alt="" width="999" height="759"/>
-       </div>
-       <div class="clearfix colelem" id="pu2088"><!-- group -->
-        <div class="clip_frame grpelem" id="u2088"><!-- image -->
-         <img class="block" id="u2088_img" src="images/requip%20sucra.jpg?crc=127594921" alt="" width="486" height="369"/>
+        <div class="clip_frame colelem" id="u2095"><!-- image -->
+         <img class="block" id="u2095_img" src="images/solution.jpg?crc=4081342995" alt="" width="999" height="759"/>
         </div>
-        <div class="clip_frame grpelem" id="u2081"><!-- image -->
-         <img class="block" id="u2081_img" src="images/requip%20geomatrix.jpg?crc=512444680" alt="" width="486" height="369"/>
+        <div class="clearfix colelem" id="pu2088"><!-- group -->
+         <div class="clip_frame grpelem" id="u2088"><!-- image -->
+          <img class="block" id="u2088_img" src="images/requip%20sucra.jpg?crc=127594921" alt="" width="486" height="369"/>
+         </div>
+         <div class="clip_frame grpelem" id="u2081"><!-- image -->
+          <img class="block" id="u2081_img" src="images/requip%20geomatrix.jpg?crc=512444680" alt="" width="486" height="369"/>
+         </div>
         </div>
-       </div>
-       <div class="clearfix colelem" id="pu2102"><!-- group -->
-        <div class="clip_frame grpelem" id="u2102"><!-- image -->
-         <img class="block" id="u2102_img" src="images/sukhothai.jpg?crc=318340227" alt="" width="486" height="369"/>
-        </div>
-        <div class="clip_frame grpelem" id="u2066"><!-- image -->
-         <img class="block" id="u2066_img" src="images/be2.jpg?crc=4131587796" alt="" width="486" height="369"/>
+        <div class="clearfix colelem" id="pu2102"><!-- group -->
+         <div class="clip_frame grpelem" id="u2102"><!-- image -->
+          <img class="block" id="u2102_img" src="images/sukhothai.jpg?crc=318340227" alt="" width="486" height="369"/>
+         </div>
+         <div class="clip_frame grpelem" id="u2066"><!-- image -->
+          <img class="block" id="u2066_img" src="images/be2.jpg?crc=4131587796" alt="" width="486" height="369"/>
+         </div>
         </div>
        </div>
       </div>
@@ -161,7 +169,7 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u7016').registerPositionScrollEffect([{"speed":[0,-30],"in":[-Infinity,518.95]},{"speed":[0,0],"in":[518.95,Infinity]}]);/* scroll effect */
+$('#u7016').registerPositionScrollEffect([{"in":[-Infinity,518.95],"speed":[0,-30]},{"in":[518.95,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

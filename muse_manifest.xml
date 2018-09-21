@@ -1,35 +1,238 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="junejp.github.io" resolutions="1x" timestamp="1537208736883">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="junejp.github.io" resolutions="1x" timestamp="1537453879844">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_c-master.css" crc="325762715" ref="video"/>
-    <file name="master_e-master.css" crc="142972476" ref="identity"/>
     <file name="master_aa-master.css" crc="172361925" ref="index"/>
-    <file name="master_b-master.css" crc="90992414" ref="graphic-design"/>
-    <file name="master_d-master.css" crc="372727448" ref="presentation"/>
-    <file name="video.css" crc="3977877002" ref="video"/>
-    <file name="index.css" crc="216235316" ref="index"/>
-    <file name="presentation.css" crc="4004166110" ref="presentation"/>
-    <file name="graphic-design.css" crc="104212965" ref="graphic-design"/>
-    <file name="identity.css" crc="494730559" ref="identity"/>
+    <file name="master_c-master.css" crc="152923960" ref="video"/>
+    <file name="master_e-master.css" crc="25993455" ref="identity"/>
+    <file name="master_b-master.css" crc="3840099480" ref="graphic-design"/>
+    <file name="master_d-master.css" crc="373687047" ref="presentation"/>
+    <file name="identity.css" crc="118268867" ref="identity"/>
+    <file name="index.css" crc="514788410" ref="index"/>
+    <file name="graphic-design.css" crc="4196500276" ref="graphic-design"/>
+    <file name="presentation.css" crc="4145551006" ref="presentation"/>
+    <file name="video.css" crc="4110403600" ref="video"/>
   </folder>
   <folder name="assets">
     <file name="ใบจบ-4.pdf" crc="448617113" seo="true" mt="1479312140000"/>
     <file name="cv_junejp2018.pdf" crc="300270933" seo="true" mt="1537194914000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="museutils.js" crc="3803043152" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="whatinput.js" crc="86476730" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="museconfig.js" crc="380897831" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="require.js" crc="4157109226" ref="index:graphic-design:video:presentation:identity"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="graphic-design:video:presentation:identity"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity:tablet>index:tablet>graphic-design:tablet>video:tablet>presentation:tablet>identity:index:graphic-design:video:presentation:identity"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity:tablet>index:tablet>graphic-design:tablet>video:tablet>presentation:tablet>identity:index:graphic-design:video:presentation:identity"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity:tablet>index:tablet>graphic-design:tablet>video:tablet>presentation:tablet>identity:index:graphic-design:video:presentation:identity"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity:tablet>index:tablet>graphic-design:tablet>video:tablet>presentation:tablet>identity:index:graphic-design:video:presentation:identity"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity:tablet>index:tablet>graphic-design:tablet>video:tablet>presentation:tablet>identity:index:graphic-design:video:presentation:identity"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:graphic-design:video:presentation:identity"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity:tablet>index:tablet>graphic-design:tablet>video:tablet>presentation:tablet>identity:index:graphic-design:video:presentation:identity"/>
   </folder>
   <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:index:graphic-design:video:presentation:identity"/>
+    <file name="graphic282x282.jpg" crc="430863862" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="video283x283.jpg" crc="98089567" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 10283x283.jpg" crc="383141905" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="identity283x283.jpg" crc="208750871" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email-s1_1-u10121-fr.png" crc="108463657" ref="phone>index"/>
+    <file name="email-s2_1-u10121-r-fr.png" crc="4173077673" ref="phone>index"/>
+    <file name="phone-s1-u10140-fr.png" crc="3940073528" ref="phone>index"/>
+    <file name="phone-s2.png" crc="4193096912" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="asset 28.png" crc="3977223212" seo="true" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="asset 26.png" crc="479527575" seo="true" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity">
+      <caption webpage="index" alt=""/>
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="brochure flu-02135x90.jpg" crc="4249041166" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="brochure flu-01135x90.jpg" crc="125128009" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="brochure hcp270x203.jpg" crc="4075122214" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="brochure rota virus v1270x203.jpg" crc="452823532" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gskpro mockup_2136x86.jpg" crc="3991108776" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gskpro mockup_1138x87.jpg" crc="3800928801" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gskpro mockup_3270x195.jpg" crc="4138263752" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="poster_mixbg-2270x108.jpg" crc="134655357" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="aaiat-2270x378.jpg" crc="3922783017" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="poster_mixbg-1270x108.jpg" crc="4191561559" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="pt education copd270x203.jpg" crc="4081067092" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="pt education asthma-2151x113.jpg" crc="4181818976" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="gif151x113.jpg" crc="440713044" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="email วิธีฆ่าไวรัสโรต้า120x226.jpg" crc="47220640" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="asthma_myth-truth270x189.jpg" crc="485925720" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="asthma_myth-truth_v2-01-01270x270.jpg" crc="3872777612" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="portrait_kk270x360.jpg" crc="407902869" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="portrait_bogum270x180.jpg" crc="294581625" seo="true" ref="phone>graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="email-s1_1.png" crc="211182899" ref="phone>graphic-design:phone>video:phone>presentation:phone>identity">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="email-s2_1.png" crc="416072983" ref="phone>graphic-design:phone>video:phone>presentation:phone>identity">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="phone-s1.png" crc="323289778" ref="phone>graphic-design:phone>video:phone>presentation:phone>identity">
+      <caption webpage="graphic-design" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="green270x169.jpg" crc="433078030" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="blue270x169.jpg" crc="335192589" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="green2270x169.jpg" crc="3978423353" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="413785017" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bg8.jpg" crc="127316941" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="bg10271x188.png" crc="337478796" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="pink270x169.png" crc="8726014" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="green270x169.png" crc="314207812" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="blue270x169.png" crc="4116106153" seo="true" ref="phone>video">
+      <caption webpage="video" alt=""/>
+    </file>
+    <file name="impact of allergic269x138.png" crc="468762610" seo="true" ref="phone>presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="solution269x205.jpg" crc="422871914" seo="true" ref="phone>presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="requip sucra131x100.jpg" crc="3905883769" seo="true" ref="phone>presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="requip geomatrix131x100.jpg" crc="346740786" seo="true" ref="phone>presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="sukhothai131x100.jpg" crc="3785796522" seo="true" ref="phone>presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="be2131x100.jpg" crc="11331373" seo="true" ref="phone>presentation">
+      <caption webpage="presentation" alt=""/>
+    </file>
+    <file name="strong_cup135x135.jpg" crc="3896341354" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="better_cup137x91.jpg" crc="3889212982" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="better_stamp270x202.jpg" crc="4115294826" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="strong_paper269x183.jpg" crc="4272136528" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="polo269x180.png" crc="3932908480" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="polo_gskpro270x165.png" crc="496404852" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="bag256x192.png" crc="400687350" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="cover_avamys271x176.jpg" crc="4280649939" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="note_aug136x88.jpg" crc="4199013925" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="calen_xyzal136x88.jpg" crc="4086736434" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="notebook271x172.png" crc="533713500" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="gif_cover271x176.jpg" crc="3804294716" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="notebook-postit271x166.png" crc="309703016" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="gif_note271x176.jpg" crc="3839413007" seo="true" ref="phone>identity">
+      <caption webpage="identity" alt=""/>
+    </file>
+    <file name="asset 16.png" crc="4022132412" seo="true" ref="phone>menu-home:phone>menu-graphics:phone>menu-video:phone>menu-presentation:phone>menu-identity">
+      <caption webpage="menu-presentation" alt=""/>
+      <caption webpage="menu-video" alt=""/>
+      <caption webpage="menu-identity" alt=""/>
+      <caption webpage="menu-graphics" alt=""/>
+      <caption webpage="menu-home" alt=""/>
+    </file>
     <file name="bg work2.png" crc="378608905" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:graphic-design:video:presentation:identity"/>
     <file name="graphic.jpg" crc="524598213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -204,9 +407,53 @@
     <file name="asset 9-u4089.png" crc="3927589597" ref="identity"/>
     <file name="asset 12-u4089-r.png" crc="3881173373" ref="identity"/>
   </folder>
-  <file name="index.html" crc="355519206" seo="true" mt="1537207928462" redirect="true"/>
-  <file name="graphic-design.html" crc="3808523527" seo="true" mt="1537208105034" redirect="true"/>
-  <file name="video.html" crc="4035671589" seo="true" mt="1537208423316" redirect="true"/>
-  <file name="presentation.html" crc="16667060" seo="true" mt="1537208095866" redirect="true"/>
-  <file name="identity.html" crc="4273317046" seo="true" mt="1537208095867" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="graphic-design.css" crc="4021538510" ref="tablet>graphic-design"/>
+      <file name="video.css" crc="4021538510" ref="tablet>video"/>
+      <file name="presentation.css" crc="4021538510" ref="tablet>presentation"/>
+      <file name="identity.css" crc="4021538510" ref="tablet>identity"/>
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="66854148" seo="true" mt="1537279612221" redirect="false"/>
+    <file name="graphic-design.html" crc="152564864" seo="true" mt="1537279612362" redirect="false"/>
+    <file name="video.html" crc="395246018" seo="true" mt="1537279612370" redirect="false"/>
+    <file name="presentation.html" crc="3951702270" seo="true" mt="1537279612378" redirect="false"/>
+    <file name="identity.html" crc="308232051" seo="true" mt="1537279612386" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="102783637" ref="phone>graphic-design"/>
+      <file name="master_c-master.css" crc="345620491" ref="phone>video"/>
+      <file name="master_d-master.css" crc="292101148" ref="phone>presentation"/>
+      <file name="master_e-master.css" crc="3902231109" ref="phone>identity"/>
+      <file name="master_a-master.css" crc="4271809747" ref="phone>menu-video:phone>menu-presentation:phone>menu-identity:phone>menu-home:phone>menu-graphics"/>
+      <file name="master_aa-master.css" crc="423879528" ref="phone>index"/>
+      <file name="index.css" crc="348169061" ref="phone>index"/>
+      <file name="menu-video.css" crc="3781780012" ref="phone>menu-video"/>
+      <file name="graphic-design.css" crc="4219473697" ref="phone>graphic-design"/>
+      <file name="menu-presentation.css" crc="3949927495" ref="phone>menu-presentation"/>
+      <file name="video.css" crc="3801098900" ref="phone>video"/>
+      <file name="menu-identity.css" crc="3802367500" ref="phone>menu-identity"/>
+      <file name="presentation.css" crc="4013270849" ref="phone>presentation"/>
+      <file name="identity.css" crc="175953982" ref="phone>identity"/>
+      <file name="menu-home.css" crc="61619190" ref="phone>menu-home"/>
+      <file name="menu-graphics.css" crc="44599096" ref="phone>menu-graphics"/>
+    </folder>
+    <file name="index.html" crc="3795584795" seo="true" mt="1537453519585" redirect="true"/>
+    <file name="graphic-design.html" crc="470932158" seo="true" mt="1537453177622" redirect="true"/>
+    <file name="video.html" crc="3999768497" seo="true" mt="1537453275691" redirect="true"/>
+    <file name="presentation.html" crc="75861232" seo="true" mt="1537453218032" redirect="true"/>
+    <file name="identity.html" crc="354424708" seo="true" mt="1537453267551" redirect="true"/>
+    <file name="menu-home.html" crc="40619795" seo="true" mt="1537448651847" redirect="true"/>
+    <file name="menu-graphics.html" crc="4064001825" seo="true" mt="1537448651849" redirect="true"/>
+    <file name="menu-video.html" crc="4048619249" seo="true" mt="1537448651851" redirect="true"/>
+    <file name="menu-presentation.html" crc="305039766" seo="true" mt="1537448654843" redirect="true"/>
+    <file name="menu-identity.html" crc="4147793092" seo="true" mt="1537448658155" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="38560023" seo="true" mt="1537366779782" redirect="true"/>
+  <file name="graphic-design.html" crc="3963153845" seo="true" mt="1537369637675" redirect="true"/>
+  <file name="video.html" crc="4291765493" seo="true" mt="1537372772117" redirect="true"/>
+  <file name="presentation.html" crc="260904249" seo="true" mt="1537447298321" redirect="true"/>
+  <file name="identity.html" crc="373193000" seo="true" mt="1537448135809" redirect="true"/>
 </manifest>
