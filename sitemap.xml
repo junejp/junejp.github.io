@@ -10,6 +10,9 @@
       <image:loc>http://junejp.github.io/images/bg%20work2.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/bg%20work2_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/graphic.jpg</image:loc>
     </image:image>
     <image:image>
@@ -24,37 +27,37 @@
   </url>
   <url>
     <loc>http://junejp.github.io/phone/menu-identity.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://junejp.github.io/phone/menu-home.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://junejp.github.io/phone/menu-graphics.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://junejp.github.io/phone/menu-video.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://junejp.github.io/phone/menu-presentation.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://junejp.github.io/video.html</loc>
-    <lastmod>2018-09-19</lastmod>
+    <lastmod>2018-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/video.html"/>
@@ -62,33 +65,60 @@
       <image:loc>http://junejp.github.io/images/green.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/green_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/blue.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/blue_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/green2.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/green2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/bg2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/bg8.png</image:loc>
+      <image:loc>http://junejp.github.io/images/bg2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/bg82.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/bg8_2x2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/bg10.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/bg10_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/pink.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/pink_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/green.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/green_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/blue.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/blue_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://junejp.github.io/presentation.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/presentation.html"/>
@@ -96,19 +126,37 @@
       <image:loc>http://junejp.github.io/images/impact%20of%20allergic.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/impact%20of%20allergic_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/solution.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/solution_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/requip%20sucra.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/requip%20sucra_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/requip%20geomatrix.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/requip%20geomatrix_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/sukhothai.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/sukhothai_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/be2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/be2_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -121,19 +169,37 @@
       <image:loc>http://junejp.github.io/images/brochure%20flu-02.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/brochure%20flu-02_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/brochure%20flu-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/brochure%20flu-01_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/brochure%20hcp.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/brochure%20hcp_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/brochure%20rota%20virus%20v1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/brochure%20rota%20virus%20v1_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/gskpro%20mockup_1.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/gskpro%20mockup_1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/gskpro%20mockup_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/gskpro%20mockup_2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/gskpro%20mockup_3.jpg</image:loc>
@@ -142,39 +208,72 @@
       <image:loc>http://junejp.github.io/images/poster_mixbg-2.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/poster_mixbg-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/aaiat-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/aaiat-2_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/poster_mixbg-1.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/poster_mixbg-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/pt%20education%20copd.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/pt%20education%20copd_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/pt%20education%20asthma-2.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/pt%20education%20asthma-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/gif.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/gif_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/email%20%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%95%E0%B9%89%E0%B8%B2.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/email%20%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%86%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%82%E0%B8%A3%E0%B8%95%E0%B9%89%E0%B8%B2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/asthma_myth-truth.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/asthma_myth-truth_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/asthma_myth-truth_v2-01-01.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/asthma_myth-truth_v2-01-01_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/portrait_kk.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/portrait_kk_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/portrait_bogum.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/portrait_bogum_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://junejp.github.io/identity.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/identity.html"/>
@@ -182,43 +281,85 @@
       <image:loc>http://junejp.github.io/images/strong_cup.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/strong_cup_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/strong_paper.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/strong_paper_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/better_cup.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/better_cup_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/better_stamp.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/better_stamp_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/polo.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/polo_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/polo_gskpro.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/polo_gskpro_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/bag.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/bag_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/cover_avamys.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/cover_avamys_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/note_aug.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/note_aug_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/calen_xyzal.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/calen_xyzal_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/notebook.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/notebook_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/gif_cover.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/gif_cover_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/notebook-postit.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/notebook-postit_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/gif_note.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/gif_note_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
