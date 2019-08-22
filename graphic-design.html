@@ -6,20 +6,26 @@
   <meta name="generator" content="2018.0.0.379"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/graphic-design.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "graphic-design.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "graphic-design.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://junejp.github.io/phone/graphic-design.html"/>
   <title>Graphic Design</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=108655020"/>
-  <link rel="stylesheet" type="text/css" href="css/graphic-design.css?crc=291173358" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=3995453220"/>
+  <link rel="stylesheet" type="text/css" href="css/graphic-design.css?crc=4060593750" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/A1--vSna3RA_Zo0JaLGVIjkbIQKyvokAHVTUBDHkbvvfen6gfFpUDb9PHQIUFD9DFR6aWDJUZQqoF2JkFQSh5AFc52qhFewuZ2sKw2jDw2I3wAJaeR67OcTudcm7Sfo1-WsGiAJ0-AvC-1m0ZAT3OciTieyujKoTdkUaiaS0-1m0ZAT3OciTieyujKoTdkJOZc8CShN0OWFzZ1bKec8XjkuyicB0ifu1jW4qZPu1dasG-AwlSY4zH6GJurMgIMMjIKMfH6GJC_wfIMIjgkMfP6sFiWF8qMeVxpd7gb.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/HeoKX0SfcHDzy7Kn_QpkBuQFnGPMZOQowluS7B0HAi3fen6gfFpUDb9PHQIUFD9DFR6aWDJUZQqoF2JkFQSh5AFc52qhFewuZ2sKw2jDw2I3wAJaeR67OcTudcm7Sfo1-WsGiAJ0-AvC-1m0ZAT3OciTieyujKoTdkUaiaS0-1m0ZAT3OciTieyujKoTdkJOZc8CShN0OWFzZ1bKec8XjkuyicB0ifu1jW4qZPu1dasG-AwlSY4zH6GJurMgIMMjIKMfH6GJC_wfIMIjgkMfP6sFiWF8qMYg1zd7gb.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -36,13 +42,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix colelem" id="u1095-4"><!-- content -->
         <p>Graphics</p>
        </div>
-       <div class="clearfix colelem" id="pbuttonu2371"><!-- group -->
+       <div class="clearfix colelem" id="pbuttonu2347"><!-- group -->
+        <a class="nonblock nontext Button clearfix grpelem" id="buttonu2347" href="video.html"><!-- container box --><div class="clearfix grpelem" id="u2348-4"><!-- content --><p>VIDEO</p></div></a>
         <div class="Button clearfix grpelem" id="buttonu2371"><!-- container box -->
          <div class="clearfix grpelem" id="u2372-4"><!-- content -->
           <p>GRAPHIC DESIGN</p>
          </div>
         </div>
-        <a class="nonblock nontext Button clearfix grpelem" id="buttonu2347" href="video.html"><!-- container box --><div class="clearfix grpelem" id="u2348-4"><!-- content --><p>VIDEO</p></div></a>
         <a class="nonblock nontext Button clearfix grpelem" id="buttonu2359" href="presentation.html"><!-- container box --><div class="clearfix grpelem" id="u2360-4"><!-- content --><p>PRESENTATION</p></div></a>
         <a class="nonblock nontext Button clearfix grpelem" id="buttonu2365" href="identity.html"><!-- container box --><div class="clearfix grpelem" id="u2366-4"><!-- content --><p>IDENTITY</p></div></a>
         <a class="nonblock nontext Button clearfix grpelem" id="buttonu7447" href="uxui.html"><!-- container box --><div class="clearfix grpelem" id="u7448-4"><!-- content --><p>UX/UI</p></div></a>
@@ -154,6 +160,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="clearfix mse_pre_init" id="u7483"><!-- group -->
     <div class="shadow clearfix grpelem" id="u6905"><!-- group -->
      <div class="gradient clearfix grpelem" id="u6898"><!-- group -->
+      <a class="nonblock nontext Button clearfix grpelem" id="buttonu7461" href="uxui.html"><!-- container box --><div class="clearfix grpelem" id="u7462-4"><!-- content --><p>UX/UI</p></div></a>
       <div class="Button clearfix grpelem" id="buttonu7455"><!-- container box -->
        <div class="clearfix grpelem" id="u7456-4"><!-- content -->
         <p>GRAPHIC DESIGN</p>
@@ -164,7 +171,6 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <a class="nonblock nontext Button clearfix grpelem" id="buttonu7457" href="presentation.html"><!-- container box --><div class="clearfix grpelem" id="u7458-4"><!-- content --><p>PRESENTATION</p></div></a>
        <a class="nonblock nontext Button clearfix grpelem" id="buttonu7459" href="identity.html"><!-- container box --><div class="clearfix grpelem" id="u7460-4"><!-- content --><p>IDENTITY</p></div></a>
       </div>
-      <a class="nonblock nontext Button clearfix grpelem" id="buttonu7461" href="uxui.html"><!-- container box --><div class="clearfix grpelem" id="u7462-4"><!-- content --><p>UX/UI</p></div></a>
      </div>
     </div>
    </div>
@@ -216,7 +222,7 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u7483').registerPositionScrollEffect([{"in":[-Infinity,519],"speed":[0,-30]},{"in":[519,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u7483').registerPositionScrollEffect([{"speed":[0,-30],"in":[-Infinity,519]},{"speed":[0,0],"in":[519,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

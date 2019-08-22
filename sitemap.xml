@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://junejp.github.io/index.html</loc>
-    <lastmod>2019-08-18</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/index.html"/>
     <image:image>
       <image:loc>http://junejp.github.io/images/bg%20work2.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://junejp.github.io/images/uxui.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://junejp.github.io/images/graphic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/asset%2010.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/video.jpg</image:loc>
@@ -17,18 +24,49 @@
     <image:image>
       <image:loc>http://junejp.github.io/images/identity.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/asset%2010.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/uxui.jpg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/phone/menu-identity.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/phone/menu-uxui.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/phone/menu-home.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/phone/menu-graphic.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/phone/menu-video.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/phone/menu-presentation.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://junejp.github.io/video.html</loc>
-    <lastmod>2019-08-19</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/video.html"/>
     <image:image>
       <image:loc>http://junejp.github.io/images/green.jpg</image:loc>
     </image:image>
@@ -42,7 +80,7 @@
       <image:loc>http://junejp.github.io/images/bg2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/bg8.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/bg82.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://junejp.github.io/images/bg10.png</image:loc>
@@ -58,34 +96,11 @@
     </image:image>
   </url>
   <url>
-    <loc>http://junejp.github.io/presentation.html</loc>
-    <lastmod>2019-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/impact%20of%20allergic.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/solution.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/requip%20sucra.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/requip%20geomatrix.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/sukhothai.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://junejp.github.io/images/be2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://junejp.github.io/graphic-design.html</loc>
-    <lastmod>2019-08-19</lastmod>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/graphic-design.html"/>
     <image:image>
       <image:loc>http://junejp.github.io/images/brochure%20flu-02.jpg</image:loc>
     </image:image>
@@ -142,10 +157,30 @@
     </image:image>
   </url>
   <url>
-    <loc>http://junejp.github.io/identity.html</loc>
-    <lastmod>2019-08-19</lastmod>
+    <loc>http://junejp.github.io/uxui.html</loc>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/uxui.html"/>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/mobile%20application_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/mobile%20application_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/data%20visualization.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/web%20design.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/identity.html</loc>
+    <lastmod>2019-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/identity.html"/>
     <image:image>
       <image:loc>http://junejp.github.io/images/strong_cup.jpg</image:loc>
     </image:image>
@@ -190,26 +225,39 @@
     </image:image>
   </url>
   <url>
-    <loc>http://junejp.github.io/uxui.html</loc>
-    <lastmod>2019-08-19</lastmod>
+    <loc>http://junejp.github.io/presentation.html</loc>
+    <lastmod>2019-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/presentation.html"/>
     <image:image>
-      <image:loc>http://junejp.github.io/images/mobile%20application_1.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/impact%20of%20allergic.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/mobile%20application_2.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/solution.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/data%20visualization.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/requip%20sucra.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/web%20design.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/requip%20geomatrix.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/sukhothai.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://junejp.github.io/images/be2.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://junejp.github.io/assets/cv_junejp2018.pdf</loc>
     <lastmod>2018-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://junejp.github.io/assets/cv_junejp2019-resize.pdf</loc>
+    <lastmod>2019-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
