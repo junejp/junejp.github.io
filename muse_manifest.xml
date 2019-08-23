@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="junejp.github.io" resolutions="1x" timestamp="1566412617693">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="junejp.github.io" resolutions="1x" timestamp="1566494219853">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_d-master.css" crc="250764760" ref="presentation"/>
-    <file name="master_c-master.css" crc="4136334344" ref="video"/>
-    <file name="master_e-master.css" crc="4251231944" ref="identity"/>
-    <file name="master_f-master.css" crc="3899025814" ref="uxui"/>
-    <file name="master_b-master.css" crc="3995453220" ref="graphic-design"/>
+    <file name="master_c-master.css" crc="3806277555" ref="video"/>
+    <file name="master_e-master.css" crc="3897710696" ref="identity"/>
+    <file name="master_d-master.css" crc="432120734" ref="presentation"/>
+    <file name="master_b-master.css" crc="528523855" ref="graphic-design"/>
+    <file name="master_f-master.css" crc="172700904" ref="uxui"/>
     <file name="master_aa-master.css" crc="172361925" ref="index"/>
-    <file name="identity.css" crc="134200929" ref="identity"/>
-    <file name="graphic-design.css" crc="4060593750" ref="graphic-design"/>
-    <file name="uxui.css" crc="3972150683" ref="uxui"/>
-    <file name="index.css" crc="193026935" ref="index"/>
-    <file name="video.css" crc="3917154260" ref="video"/>
-    <file name="presentation.css" crc="463985097" ref="presentation"/>
+    <file name="identity.css" crc="4015141264" ref="identity"/>
+    <file name="presentation.css" crc="4236301921" ref="presentation"/>
+    <file name="video.css" crc="20322945" ref="video"/>
+    <file name="uxui.css" crc="4155932958" ref="uxui"/>
+    <file name="graphic-design.css" crc="144198677" ref="graphic-design"/>
+    <file name="index.css" crc="419396346" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ใบจบ-4.pdf" crc="448617113" seo="true" mt="1479312140000"/>
@@ -49,50 +49,50 @@
     <file name="mail-phone1.png" crc="3785237659" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>uxui">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="presentation" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="identity" alt=""/>
       <caption webpage="uxui" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
     </file>
     <file name="mail-phone2.png" crc="4014871393" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>uxui">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="presentation" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="identity" alt=""/>
       <caption webpage="uxui" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
     </file>
     <file name="phone-phone2.png" crc="3833296408" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>uxui">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="presentation" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="identity" alt=""/>
       <caption webpage="uxui" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
     </file>
     <file name="phone-phone1.png" crc="4001214888" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>uxui">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="presentation" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="identity" alt=""/>
       <caption webpage="uxui" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
     </file>
     <file name="asset 28.png" crc="3963050667" seo="true" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>uxui">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="presentation" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="identity" alt=""/>
       <caption webpage="uxui" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
     </file>
     <file name="asset 26.png" crc="510192593" seo="true" ref="phone>index:phone>graphic-design:phone>video:phone>presentation:phone>identity:phone>uxui">
       <caption webpage="index" alt=""/>
       <caption webpage="graphic-design" alt=""/>
-      <caption webpage="presentation" alt=""/>
       <caption webpage="video" alt=""/>
-      <caption webpage="identity" alt=""/>
       <caption webpage="uxui" alt=""/>
+      <caption webpage="presentation" alt=""/>
+      <caption webpage="identity" alt=""/>
     </file>
     <file name="brochure flu-02135x90.jpg" crc="4249041166" seo="true" ref="phone>graphic-design">
       <caption webpage="graphic-design" alt=""/>
@@ -235,16 +235,16 @@
     <file name="gif_note271x176.jpg" crc="3839413007" seo="true" ref="phone>identity">
       <caption webpage="identity" alt=""/>
     </file>
-    <file name="mobile application_1271x169.jpg" crc="258108157" seo="true" ref="phone>uxui">
+    <file name="artboard 1@2x271x169.png" crc="3872714673" seo="true" ref="phone>uxui">
       <caption webpage="uxui" alt=""/>
     </file>
-    <file name="mobile application_2271x169.jpg" crc="4182727032" seo="true" ref="phone>uxui">
+    <file name="artboard 3@2x271x169.png" crc="356232064" seo="true" ref="phone>uxui">
       <caption webpage="uxui" alt=""/>
     </file>
-    <file name="data visualization273x365.jpg" crc="68513599" seo="true" ref="phone>uxui">
+    <file name="artboard 2@2x273x365.png" crc="4051230374" seo="true" ref="phone>uxui">
       <caption webpage="uxui" alt=""/>
     </file>
-    <file name="web design270x432.jpg" crc="3906518181" seo="true" ref="phone>uxui">
+    <file name="artboard 4@2x270x433.png" crc="331905264" seo="true" ref="phone>uxui">
       <caption webpage="uxui" alt=""/>
     </file>
     <file name="bg work2.png" crc="378608905" seo="true" ref="index">
@@ -426,16 +426,16 @@
     <file name="asset 11-u4086-r.png" crc="3963223373" ref="identity"/>
     <file name="asset 9-u4089.png" crc="3927589597" ref="identity"/>
     <file name="asset 12-u4089-r.png" crc="3881173373" ref="identity"/>
-    <file name="mobile application_1.jpg" crc="3786351397" seo="true" ref="uxui">
+    <file name="artboard 1@2x.png" crc="392800047" seo="true" ref="uxui">
       <caption webpage="uxui" alt=""/>
     </file>
-    <file name="mobile application_2.jpg" crc="322794453" seo="true" ref="uxui">
+    <file name="artboard 3@2x.png" crc="4001196231" seo="true" ref="uxui">
       <caption webpage="uxui" alt=""/>
     </file>
-    <file name="data visualization.jpg" crc="271917071" seo="true" ref="uxui">
+    <file name="artboard 2@2x.png" crc="439279858" seo="true" ref="uxui">
       <caption webpage="uxui" alt=""/>
     </file>
-    <file name="web design.jpg" crc="288373520" seo="true" ref="uxui">
+    <file name="artboard 4@2x.png" crc="4038312301" seo="true" ref="uxui">
       <caption webpage="uxui" alt=""/>
     </file>
     <file name="asset 7-u8833.png" crc="304223666" ref="uxui"/>
@@ -445,12 +445,12 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="video.css" crc="4021538510" ref="tablet>video"/>
-      <file name="identity.css" crc="4021538510" ref="tablet>identity"/>
-      <file name="presentation.css" crc="4021538510" ref="tablet>presentation"/>
       <file name="graphic-design.css" crc="4021538510" ref="tablet>graphic-design"/>
-      <file name="uxui.css" crc="4021538510" ref="tablet>uxui"/>
       <file name="index.css" crc="4021538510" ref="tablet>index"/>
+      <file name="uxui.css" crc="4021538510" ref="tablet>uxui"/>
+      <file name="video.css" crc="4021538510" ref="tablet>video"/>
+      <file name="presentation.css" crc="4021538510" ref="tablet>presentation"/>
+      <file name="identity.css" crc="4021538510" ref="tablet>identity"/>
     </folder>
     <file name="index.html" crc="66854148" seo="true" mt="1566400920678" redirect="false"/>
     <file name="graphic-design.html" crc="152564864" seo="true" mt="1566400920798" redirect="false"/>
@@ -461,43 +461,43 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_b-master.css" crc="419573531" ref="phone>graphic-design"/>
-      <file name="master_f-master.css" crc="4007149232" ref="phone>uxui"/>
+      <file name="master_c-master.css" crc="153487103" ref="phone>video"/>
+      <file name="master_b-master.css" crc="70012778" ref="phone>graphic-design"/>
+      <file name="master_a-master.css" crc="127015937" ref="phone>menu-graphic:phone>menu-home:phone>menu-presentation:phone>menu-identity:phone>menu-video:phone>menu-uxui"/>
       <file name="master_aa-master.css" crc="127213821" ref="phone>index"/>
-      <file name="master_d-master.css" crc="4263410848" ref="phone>presentation"/>
-      <file name="master_c-master.css" crc="336094862" ref="phone>video"/>
-      <file name="master_e-master.css" crc="3931385168" ref="phone>identity"/>
-      <file name="master_a-master.css" crc="127015937" ref="phone>menu-video:phone>menu-home:phone>menu-uxui:phone>menu-presentation:phone>menu-graphic:phone>menu-identity"/>
-      <file name="menu-video.css" crc="3854184472" ref="phone>menu-video"/>
-      <file name="menu-home.css" crc="4260296109" ref="phone>menu-home"/>
-      <file name="video.css" crc="4019517085" ref="phone>video"/>
-      <file name="menu-uxui.css" crc="4102369270" ref="phone>menu-uxui"/>
-      <file name="menu-presentation.css" crc="3960384104" ref="phone>menu-presentation"/>
-      <file name="graphic-design.css" crc="158084334" ref="phone>graphic-design"/>
-      <file name="presentation.css" crc="3821682222" ref="phone>presentation"/>
-      <file name="menu-graphic.css" crc="93464223" ref="phone>menu-graphic"/>
-      <file name="index.css" crc="4095276987" ref="phone>index"/>
-      <file name="identity.css" crc="251359027" ref="phone>identity"/>
-      <file name="uxui.css" crc="4066368629" ref="phone>uxui"/>
-      <file name="menu-identity.css" crc="4226838555" ref="phone>menu-identity"/>
+      <file name="master_f-master.css" crc="4093009601" ref="phone>uxui"/>
+      <file name="master_e-master.css" crc="4151987489" ref="phone>identity"/>
+      <file name="master_d-master.css" crc="3811581137" ref="phone>presentation"/>
+      <file name="menu-graphic.css" crc="409715641" ref="phone>menu-graphic"/>
+      <file name="presentation.css" crc="256652035" ref="phone>presentation"/>
+      <file name="video.css" crc="3965998013" ref="phone>video"/>
+      <file name="menu-home.css" crc="3759607947" ref="phone>menu-home"/>
+      <file name="graphic-design.css" crc="3909387469" ref="phone>graphic-design"/>
+      <file name="menu-presentation.css" crc="4059516750" ref="phone>menu-presentation"/>
+      <file name="menu-identity.css" crc="3859387709" ref="phone>menu-identity"/>
+      <file name="uxui.css" crc="3879119338" ref="phone>uxui"/>
+      <file name="menu-video.css" crc="4165195070" ref="phone>menu-video"/>
+      <file name="menu-uxui.css" crc="3917269712" ref="phone>menu-uxui"/>
+      <file name="identity.css" crc="50940492" ref="phone>identity"/>
+      <file name="index.css" crc="71910042" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="53238682" seo="true" mt="1566412591272" redirect="true"/>
-    <file name="graphic-design.html" crc="57698820" seo="true" mt="1566412591274" redirect="true"/>
-    <file name="video.html" crc="4294382106" seo="true" mt="1566412591273" redirect="true"/>
-    <file name="presentation.html" crc="4143205161" seo="true" mt="1566412591273" redirect="true"/>
-    <file name="identity.html" crc="3981206215" seo="true" mt="1566412591273" redirect="true"/>
-    <file name="uxui.html" crc="3930072718" seo="true" mt="1566412591272" redirect="true"/>
-    <file name="menu-home.html" crc="127815073" seo="true" mt="1566412483804" redirect="true"/>
-    <file name="menu-graphic.html" crc="4052442915" seo="true" mt="1566412483804" redirect="true"/>
-    <file name="menu-video.html" crc="3929949506" seo="true" mt="1566412483804" redirect="true"/>
-    <file name="menu-presentation.html" crc="172418558" seo="true" mt="1566412483804" redirect="true"/>
-    <file name="menu-identity.html" crc="460633760" seo="true" mt="1566412483804" redirect="true"/>
-    <file name="menu-uxui.html" crc="51464767" seo="true" mt="1566412483804" redirect="true"/>
+    <file name="index.html" crc="3946097556" seo="true" mt="1566412591272" redirect="true"/>
+    <file name="graphic-design.html" crc="341690741" seo="true" mt="1566412591274" redirect="true"/>
+    <file name="video.html" crc="4158094427" seo="true" mt="1566412591273" redirect="true"/>
+    <file name="presentation.html" crc="488580027" seo="true" mt="1566412591273" redirect="true"/>
+    <file name="identity.html" crc="219754847" seo="true" mt="1566412591273" redirect="true"/>
+    <file name="uxui.html" crc="23443683" seo="true" mt="1566493969425" redirect="true"/>
+    <file name="menu-home.html" crc="315817804" seo="true" mt="1566412483804" redirect="true"/>
+    <file name="menu-graphic.html" crc="4112951724" seo="true" mt="1566412483804" redirect="true"/>
+    <file name="menu-video.html" crc="469547271" seo="true" mt="1566412483804" redirect="true"/>
+    <file name="menu-presentation.html" crc="43958760" seo="true" mt="1566412483804" redirect="true"/>
+    <file name="menu-identity.html" crc="297291506" seo="true" mt="1566412483804" redirect="true"/>
+    <file name="menu-uxui.html" crc="315644554" seo="true" mt="1566412483804" redirect="true"/>
   </folder>
-  <file name="index.html" crc="401279558" seo="true" mt="1566412511982" redirect="true"/>
-  <file name="graphic-design.html" crc="4059751798" seo="true" mt="1566412483799" redirect="true"/>
-  <file name="video.html" crc="416320639" seo="true" mt="1566412483800" redirect="true"/>
-  <file name="presentation.html" crc="4235116576" seo="true" mt="1566412483800" redirect="true"/>
-  <file name="identity.html" crc="4147483548" seo="true" mt="1566412483800" redirect="true"/>
-  <file name="uxui.html" crc="321310454" seo="true" mt="1566412483801" redirect="true"/>
+  <file name="index.html" crc="3961346238" seo="true" mt="1566412511982" redirect="true"/>
+  <file name="graphic-design.html" crc="486515646" seo="true" mt="1566412483799" redirect="true"/>
+  <file name="video.html" crc="4220218441" seo="true" mt="1566412483800" redirect="true"/>
+  <file name="presentation.html" crc="96879841" seo="true" mt="1566412483800" redirect="true"/>
+  <file name="identity.html" crc="3882254462" seo="true" mt="1566412483800" redirect="true"/>
+  <file name="uxui.html" crc="4210128527" seo="true" mt="1566493472164" redirect="true"/>
 </manifest>

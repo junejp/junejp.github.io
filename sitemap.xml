@@ -158,21 +158,21 @@
   </url>
   <url>
     <loc>http://junejp.github.io/uxui.html</loc>
-    <lastmod>2019-08-22</lastmod>
+    <lastmod>2019-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://junejp.github.io/phone/uxui.html"/>
     <image:image>
-      <image:loc>http://junejp.github.io/images/mobile%20application_1.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/artboard%201@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/mobile%20application_2.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/artboard%203@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/data%20visualization.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/artboard%202@2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://junejp.github.io/images/web%20design.jpg</image:loc>
+      <image:loc>http://junejp.github.io/images/artboard%204@2x.png</image:loc>
     </image:image>
   </url>
   <url>
